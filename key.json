@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "apple-website-42df2",
+    "private_key_id": "189269f90b2da8e40f74149574a5efe89d229398",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCc2nOac6o01kz/\nvYhEChxZ7AVWUdUyQ5kcyCuw7gD9k0IdYtvCTqcclr/YkSvhjFbL9Z5Y3mZ07GcF\nwWtRkVXfgWSr3d3aP00UcGttH6VLdXDniM+tXwwDoI61B5QhzXk3nudeVbROUOX/\nlTSpwtIQ5J8JmdKPh5S2W00b1ofxQk1XEHVgHi1S/ljqk8hGK7URD35K8LM3nbE9\nouRV/e2K8Cxt3UnwS8zUzpSn81ShdFuLPdcuw54QB/qmDW5LNDhkLYF0G+AlqVoA\nzosQ8NV5LtG7P08GOGBrO/qnpIjn5iWhC6BGHQ5W7ounQ0A8ajujXt7qERWOdOJP\nxaAAAeFbAgMBAAECggEADmzWtzcjnvgFx8/woWqZSznLZIdicdzJTt4n39Mw+yEZ\nB6Z+VcMxrOLo94FOWvqy8XoAGzsviq7tFe3rsT+KTrj8fwPeBy14KMTiqaarPHfW\nBNfOWwBD6hd7gwbp5tFEmyAS4NhFR0iQW8N8lDo1uIEAu/t4uQ4mgpN9/BfsPlHj\nlIT6F3LWaf6t6ICvk+24DqrTPzqyjU7EeYwG08iwuxBOu28mlJ9GIQNfLDHJfyFJ\nPYGRmxuwJPtn2xeCYbFGVVWpahD0lEjBxmRRFB8h3RONc36cLztIfDRVeQ7sQM87\nSiLPyTh+kRW/zsfs9Oj+vRdLMXuUiMnB+o2ZIz/pGQKBgQDU2Q1BPmzPc9pEDMwd\n8UCs7DeG9gsyC9oOO09OG2rqXt39VyOgHYzbiSRQ8EZuFYTqdxM+VwTwb7+4nsxT\nfZghkb3iH+FXmbejuYiR6sBAF8rZq+blRpfTJFbXmi1ukHvW3r7enBgnpWERN+ZD\nEBhUJbxt/DFJuCUltcQQ7EZj0wKBgQC8pz7gGWnRQNXG7qx1BYOLLNADTpzXGnpM\nxAYOJFaT7ZjCKPyzkQtSb7YtgfYRlXAEX97yCdhSbvtHsRKPnsvdV62jdejFapg5\nHxTlN5hmBt3341bei6sRuDXNZouj4oFYhQFKO2H+ItNNtx7uUGdpRHoSQ2uLD/Gf\nm1HMiz7/WQKBgBzROjswIXlA3TdDaEtRg4kl/iqWm1NuSVqN6yHPEn2i1HldV+Rw\nu8ZpXfJbZZ236iP4dTGGhJOs/Y8YaN+Q7Iz293drC45ZsIRJNVVULC1BS2SHIp6+\nHQYoMF3GcQo8I5gm1j67cYXEnUzAfbtsrW6PIWDeuSma9eSSJHaKFsmjAoGAfk8f\n+t0pCzB0sW/Fycf6TemgEEbHHgIdVl58i2VrDjorZ/wXTYbUZMpk2E1GWnmKeXNT\nCwzqaC7kURjOi5hPeJAmsuXUBrGa38veqqWxhMYeQcVVuUUcMY37f92jqwORhJnw\nxinCL2xTu5navMbaphFyBd5cF8yCA1Hzz5Z/hGkCgYEAz2/1CFWDPmtjIkUo3Oj/\nkpJc1LHlsVzW0SAzSXDM5BtHvEnyYV5ysvqkdhZrf6B2o83VonPT1lZL6e6dcqfh\nuRrHAPz2iuGvWgOIYWik63K8Za4gl5UD2HRvOf7JqL9kPRJ19v60UQj6MYoxT4Kv\nGAfSOWrU0u3eJzj9IAkFQ6I=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-100dj@apple-website-42df2.iam.gserviceaccount.com",
+    "client_id": "107446305543662140279",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-100dj%40apple-website-42df2.iam.gserviceaccount.com"
+  }
