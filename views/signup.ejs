@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+   <meta charset="utf-8">
+   <title>registration</title>
+   
+   <style>
+    input:hover{
+        color:white;
+        background-color:salmon;
+     }
+     b:hover{
+        color:blueviolet;
+     }
+     body {
+       background: linear-gradient(violet,white);
+       background-repeat: no-repeat;  
+      }
+   </style>
+ </head>
+<body>
+    <div style="text-align:center;border:5px  solid  black;height:flex;margin:100px;height:500px;margin-left:500px;
+    margin-right: 500px;">
+        <b style="font-size:50px">Sign Up</b>
+        <h4>it's quick and easy</h4>
+        <hr>
+        <form action="/signupsubmit" method="GET">
+         <label for="fname">First name:</label>
+         <input type="text" id="fname" name="firstname"><br><br>
+         <label for="lname">Last name:</label>
+         <input type="text" id="lname" name="lastname"><br><br>
+         <label for="eml">Email Id :</label>
+         <input type="text" id="eml" name="email"><br><br>
+         <label for="pwd">Password:</label>
+         <input type="text" id="pwd" name="password"><br><br>
+         <button type="submit">submit</button>
+       </form>
+       <form action="/navsubmit" method="GET">
+           Already have an account then Login
+           <button type="submit">Login</button>
+       </form>
+       
+        
+    </div>
+    
+    </body>
+    </html>
